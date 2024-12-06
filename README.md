@@ -2,6 +2,9 @@
 
 Official PyTorch implementation <br>
 CNN models for C02 leakage detection <br>
+Below is the workflow diagram illustrating the process:
+
+![Workflow Diagram](workflows/workflows.png)
 
 
 ## Requirements
@@ -23,9 +26,7 @@ More details can be found under the notebook [training_demo.ipynb](scripts/train
 
 ## Uncertainty Analysis
 The multi-criteria decision-making (MCDM)-based Ensemble schema and uncertainty analysis details can be found on [artifacts_demo.ipynb](scripts/artifacts_demo.ipynb)
-Below is the workflow diagram illustrating the process:
 
-![Workflow Diagram](workflows/workflows.png)
-
-[workflows.png](workflows/workflows.png)
+Below is the uncertainty analysis process:
+![Workflow Diagram](workflows/uncertainty_analysis_flow.png)
 
