@@ -23,6 +23,7 @@ More details can be found under the notebook [training_demo.ipynb](scripts/train
 
 ## Uncertainty Analysis
 The multi-criteria decision-making (MCDM)-based Ensemble schema and uncertainty analysis details can be found on [artifacts_demo.ipynb](scripts/artifacts_demo.ipynb)
+- `![Workflow Diagram](workflows/workflows.png)` 
 
 
 [workflows.png](workflows/workflows.png)
