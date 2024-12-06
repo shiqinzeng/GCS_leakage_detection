@@ -1,0 +1,16 @@
+name: leakage_detection
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - h5py
+  - pytorch
+  - torchvision
+  - matplotlib
+  - scikit-learn
+  - cudatoolkit  # Automatically selects appropriate version for GPU if available
+  - pip
+  - pip:
+      - argparse  # Installed via pip since it is a standard Python library
