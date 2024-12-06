@@ -2,8 +2,9 @@
 
 Official PyTorch implementation <br>  
 CNN models for CO₂ leakage detection <br> 
-This artifact is developed based on the paper  [Ziyi Yin, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin and F. Herrmann. “Derisking geological carbon storage from high-resolution time-lapse seismic to explainable leakage detection.” The Leading Edge (2023).](https://arxiv.org/pdf/2211.03527) <br>
-Below is the workflow diagram illustrating the process:
+This artifact is developed based on the paper  [Ziyi Yin, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin and F. Herrmann. “Derisking geological carbon storage from high-resolution time-lapse seismic to explainable leakage detection.” The Leading Edge (2023).](https://arxiv.org/pdf/2211.03527) <be>
+<br>
+Below is the workflow diagram illustrating the detection process:
 
 ![Workflow Diagram](workflows/workflows.png)
 
