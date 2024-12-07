@@ -10,7 +10,9 @@ dependencies:
   - torchvision
   - matplotlib
   - scikit-learn
+  - scipy  # For statistical computations
   - cudatoolkit  # Automatically selects appropriate version for GPU if available
   - pip
   - pip:
-      - argparse  # Installed via pip since it is a standard Python library
+      - argparse  # For command-line argument parsing
+      - tqdm  # For progress bars
