@@ -22,7 +22,7 @@ conda activate leakage_detection
 Put the data under the [data](data/) directory, and train the dataset by running the Python script:
 
 ```.bash
-!python scripts/training_loop.py --dataset_path "data/dataset_jrm_1971_seismic_images?dl=0" --data_length 1971 --model_name "vgg16"
+python scripts/training_loop.py --dataset_path "data/dataset_jrm_1971_seismic_images?dl=0" --data_length 1971 --model_name "vgg16"
 ```
 
 More details can be found under the notebook [training_demo.ipynb](scripts/training_demo.ipynb).
